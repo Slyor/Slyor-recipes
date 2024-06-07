@@ -1,0 +1,23 @@
+*{
+  font-family: arial;
+}
+
+.content{
+  max-width: 500px;
+  margin: auto;
+}
+
+img{
+  border-radius: 20px;
+  border: 3px solid green;
+}
+h1{
+  background: green;
+  border-radius: 10px;
+  text-align: center;
+  color: white;
+}
+h2{
+  font-size: 30px;
+  font-weight: 900px;
+}

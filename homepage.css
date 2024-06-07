@@ -1,0 +1,19 @@
+*{
+  font-family: arial;
+}
+
+h1, ul{
+  text-align: center;
+}
+h1{
+  font-size: 120px;
+}
+ul{
+  list-style-type: none;
+}
+a{
+  font-size: 100px;
+  text-decoration: none;
+  color: green;
+  font-weight: 1000;
+}
